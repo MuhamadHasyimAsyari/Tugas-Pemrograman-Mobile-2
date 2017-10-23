@@ -11,7 +11,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 /**
- * Created by Lutfi Kharisma.
+ * Mobile.
  */
 public class getSourceTask extends AsyncTask<String, Void, String> {
 
